@@ -1,0 +1,7 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos:
+git clone
+cd nome da pasta
+git status
+git add -A
