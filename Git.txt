@@ -1,0 +1,9 @@
+Ir no github > Code > HTTPS > copiar
+
+Abrir pasta no pc > git bash here > git clone > colar
+
+cd nome da pasta
+git status
+git add -A (qdo há alteração na pasta)
+git commit -m (incluir alterações)
+git psuh origin mais(fazer alteração remota)
