@@ -6,4 +6,4 @@ cd nome da pasta
 git status
 git add -A (qdo há alteração na pasta)
 git commit -m (incluir alterações)
-git psuh origin mais(fazer alteração remota)
+git push origin main(fazer alteração remota)
